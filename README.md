@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aryan Malguri</h1>
-<h3 align="center">Master's student in Software Engineering at Penn State University. I'm passionate about full-stack development and competitive coding. I love diving into complex problems and finding elegant, efficient solutions. Whether it's developing a robust backend, crafting a seamless user experience, or competing in coding challenges, I enjoy every aspect of the development process. I believe in continuous learning and am always on the lookout for new technologies and techniques to enhance my skill set</h3>
+<h3 align="center">Master's student in Software Engineering at Penn State University. I'm passionate about full-stack development and competitive coding. I love diving into complex problems and finding elegant, efficient solutions. Whether it's developing a robust backend, crafting a seamless user experience, or competing in coding challenges, I enjoy every aspect of the development process.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanmalguri1998" alt="aryanmalguri1998" /></a> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Build a Fullstack Blog App using MERN (mongo, express, react, node)**
+
+
+- 🔭 I’m currently working on **A Fullstack Blog App using MERN stack(mongo, express, react, node)**
 
 - 🌱 I’m currently learning **Spring Framework, Kubernetes, Cloud technologies**
 
