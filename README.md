@@ -4,6 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanmalguri1998" alt="aryanmalguri1998" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 I’m currently working on **Build a Fullstack Blog App using MERN (mongo, express, react, node)**
 
 - 🌱 I’m currently learning **Spring Framework, Kubernetes, Cloud technologies**
